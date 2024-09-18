@@ -1,0 +1,16 @@
+C:\Users\Home\source\repos\PictureViewer 23521768\PictureViewer 23521768\bin\Debug\net8.0-windows\PictureViewer 23521768.exe
+C:\Users\Home\source\repos\PictureViewer 23521768\PictureViewer 23521768\bin\Debug\net8.0-windows\PictureViewer 23521768.deps.json
+C:\Users\Home\source\repos\PictureViewer 23521768\PictureViewer 23521768\bin\Debug\net8.0-windows\PictureViewer 23521768.runtimeconfig.json
+C:\Users\Home\source\repos\PictureViewer 23521768\PictureViewer 23521768\bin\Debug\net8.0-windows\PictureViewer 23521768.dll
+C:\Users\Home\source\repos\PictureViewer 23521768\PictureViewer 23521768\bin\Debug\net8.0-windows\PictureViewer 23521768.pdb
+C:\Users\Home\source\repos\PictureViewer 23521768\PictureViewer 23521768\obj\Debug\net8.0-windows\PictureViewer_23521768.Form1.resources
+C:\Users\Home\source\repos\PictureViewer 23521768\PictureViewer 23521768\obj\Debug\net8.0-windows\PictureViewer 23521768.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\PictureViewer 23521768\PictureViewer 23521768\obj\Debug\net8.0-windows\PictureViewer 23521768.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\PictureViewer 23521768\PictureViewer 23521768\obj\Debug\net8.0-windows\PictureViewer 23521768.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\PictureViewer 23521768\PictureViewer 23521768\obj\Debug\net8.0-windows\PictureViewer 23521768.AssemblyInfo.cs
+C:\Users\Home\source\repos\PictureViewer 23521768\PictureViewer 23521768\obj\Debug\net8.0-windows\PictureViewer 23521768.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\PictureViewer 23521768\PictureViewer 23521768\obj\Debug\net8.0-windows\PictureViewer 23521768.dll
+C:\Users\Home\source\repos\PictureViewer 23521768\PictureViewer 23521768\obj\Debug\net8.0-windows\refint\PictureViewer 23521768.dll
+C:\Users\Home\source\repos\PictureViewer 23521768\PictureViewer 23521768\obj\Debug\net8.0-windows\PictureViewer 23521768.pdb
+C:\Users\Home\source\repos\PictureViewer 23521768\PictureViewer 23521768\obj\Debug\net8.0-windows\PictureViewer 23521768.genruntimeconfig.cache
+C:\Users\Home\source\repos\PictureViewer 23521768\PictureViewer 23521768\obj\Debug\net8.0-windows\ref\PictureViewer 23521768.dll
